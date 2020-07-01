@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-auth",
+  "version": "1.0.0",
+  "description": "{{ description }}",
+  "author": "{{ author }}",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/vuetify": "^1.11.2",
+    "axios": "^0.19.2",
+    "cookie-universal-nuxt": "^2.1.4",
+    "nuxt": "^2.13.2"
+  },
+  "devDependencies": {
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.0.0"
+  }
+}
