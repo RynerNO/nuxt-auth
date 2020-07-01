@@ -1,5 +1,12 @@
 [
   {
+    "name": "Auth",
+    "path": "/Auth",
+    "component": "W:\\\\code\\\\nuxt-auth\\\\pages\\\\Auth.vue",
+    "chunkName": "pages/Auth",
+    "_name": "_5dd99598"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "W:\\\\code\\\\nuxt-auth\\\\pages\\\\index.vue",
